@@ -5,7 +5,7 @@
   hey there. I'm Eddie
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/xiaoming-ma-539603189/)">
+  <a href="https://www.linkedin.com/in/xiaoming-ma-539603189/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -15,13 +15,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
-- :telescope: I've been working as a Software Engineer and contributing to frontend and backend for building web applications. Now studying in New Zealand.
+- :telescope: I've been working as a Software Engineer and contributing to frontend and backend for building web applications. Currently pursuing a master's degree at the University of Auckland
 
 - :seedling: Exploring Technical trends and different cultures.
 
-- :writing_hand: Blog Posts : <a href='blog.csdn.net/weixin_40364421'>CSDN</a> |to be continue..
+- :writing_hand: Blog Posts : <a href='https://blog.csdn.net/weixin_40364421'>CSDN</a> |to be continue..
 
-- :leetcode: <a href='[blog.csdn.net/weixin_40364421](https://leetcode.cn/u/xmaaaa/)'>Profile</a>
+- :leetcode: <a href='https://leetcode.cn/u/xmaaaa/'>Profile</a>
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
