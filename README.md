@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :writing_hand: Blog Posts : <a href='https://blog.csdn.net/weixin_40364421'>CSDN</a> |to be continue..
 
-- :leetcode: <a href='https://leetcode.cn/u/xmaaaa/'>Profile</a>
+- :writing_hand: leetcode : <a href='https://leetcode.cn/u/xmaaaa/'>Profile</a>
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
