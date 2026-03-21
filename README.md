@@ -1,25 +1,39 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1yMGRlYnYyZnhpc3o1bWVtZXM5NjBmOWUydHBlcDdmeTJzMXpuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IydFHF2WeTmVMBi/giphy.gif" width="100"/>
 
   <h1>
-  hey there. I'm Eddie
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- </h1>
+    hey there, I'm Eddie
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+
   <a href="https://www.linkedin.com/in/xiaoming-ma-539603189/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450"/>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+---
 
-- :telescope: I've been working as a Software Engineer and contributing to frontend and backend for building web applications. Currently pursuing a master's degree at the University of Auckland.
+### 👨‍💻 About Me
 
-- :seedling: Exploring Technical trends and different cultures.
+Backend engineer working on systems.
 
-- :writing_hand: Blog Posts : <a href='https://blog.csdn.net/weixin_40364421'>CSDN</a> |To be continue..
+- Building backend systems and APIs  
+- Interested in system design and domain modeling  
+- Some experience with SaaS and real-world business systems  
+- Recently exploring AI tools in development  
+
+---
+
+### 🌱 A bit more
+
+- I enjoy thinking about how systems are structured  
+- Still learning, still building  
+
+- :writing_hand: Blog Posts : <a href='https://blog.csdn.net/weixin_40364421'>CSDN</a>
 
 - :writing_hand: leetcode : <a href='https://leetcode.cn/u/xmaaaa/'>Profile</a>
 - ---
